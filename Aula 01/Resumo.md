@@ -1,4 +1,4 @@
-# Relatório
+# Resumo
 
 ## TI e Estratégia de Negócio
 A Tecnologia da Informação deixa de ser apenas suporte para assumir um papel central na competitividade.
